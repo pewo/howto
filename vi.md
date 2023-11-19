@@ -1,7 +1,7 @@
-Två lägen i vi, edit eller command.
-I edit så skriver man in text, avbryt editläge med esc. Då återgår man till kommandoläge.
-Det går att ställa in så man får en -- INSERT -- när man är i editläge, om det inte är default.
-Att flytta runt eller söka och andra aktiviter sker i kommandoläge.
+> Två lägen i vi, edit eller command.
+> I edit så skriver man in text, avbryt editläge med esc. Då återgår man till kommandoläge.
+> Det går att ställa in så man får en -- INSERT -- när man är i editläge, om det inte är default.
+> Att flytta runt eller söka och andra aktiviter sker i kommandoläge.
 
 Spara och avsluta:
 :q	avsluta går inte om du gjort förändringa och inte sparat dessa.
